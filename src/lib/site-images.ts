@@ -1,0 +1,35 @@
+const BASE = 'https://attechgroup.ca/chatons/wp-content/uploads/2025/12';
+
+export const siteImages = {
+  classroom: '/images/kindergarten/chat3.jpeg',
+  painting: '/images/kindergarten/chat2.jpeg',
+  hugging: '/images/kindergarten/chat1.jpeg',
+  tour: `${BASE}/360-tour-DTOavbPVIy.png`,
+  instagram: `${BASE}/instagramchatonsdor.webp`,
+  facebook: `${BASE}/facebookchatonsdor.webp`,
+  team: [
+    `${BASE}/Group-5.png`,
+    `${BASE}/image-1-1-2.png`,
+    `${BASE}/Group-80.png`,
+    `${BASE}/Group-78.png`,
+    `${BASE}/image-1-1-3.png`,
+    `${BASE}/Group-79.png`,
+  ],
+  gallery: [
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.41-1.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.41-2.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.41-3.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.41-4.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.41.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.41-5.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.41-11.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.41-6.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.42.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.41-7.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.42-1.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.41-8.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.37.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.36.jpeg`,
+    `${BASE}/WhatsApp-Image-2025-12-10-at-12.25.38.jpeg`,
+  ],
+};
