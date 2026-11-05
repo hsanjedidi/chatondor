@@ -153,7 +153,7 @@ export function HomePage() {
             </a>
           </div>
           <div className="grid grid-cols-2 gap-4 md:grid-cols-3">
-            {siteImages.gallery.slice(0, 6).map((src, index) => (
+            {siteImages.gallery.slice(0, 8).map((src, index) => (
               <a
                 key={src}
                 href={routeHref("/gallery")}
